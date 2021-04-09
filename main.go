@@ -1,5 +1,5 @@
 /*
-@Title : 匹配linux操作系统命令，并返回相应选项的帮助信息
+@Title : 匹配linux/Windows操作系统命令，并返回相应选项的帮助信息
 @Author : yuan Y
 @File : main.go
 @Software: GoLand
