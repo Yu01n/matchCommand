@@ -1,0 +1,6 @@
+{
+  "path": [
+    "../configs/linux_cmd.json",
+    "../configs/Windows_cmd.json"
+  ]
+}
